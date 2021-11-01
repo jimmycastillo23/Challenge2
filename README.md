@@ -32,7 +32,8 @@ The second part was positioned at the end of the subroutine Sub AllStocksAnalysi
 
 End Sub
 
-As for the analysis of the performance comparing both 2017 and 2018, it can be observed that the performance of the 2017 image shows "This code ran 0.203125 seconds which is faster than the 2018 which shows 0.2070313. Still both performances are very fast. A​s an​ experiment as ​I ​also compared the performance of the GreenStock Challenge's file performance and showed similar execution performance. Below images of the running results.   
+As for the analysis of the performance comparing both 2017 and 2018, it can be observed that the performance of the 2017 image shows "This code ran 0.203125 seconds which is faster than the 2018 which shows 0.2070313. Still both performances are very fast. As an experiment as I also compared the performance of the GreenStock Challenge's file performance and showed similar execution performance. Below images of the running results.   
+
 ---
 ![Performance 2017](https://github.com/jimmycastillo23/Challenge2/blob/main/VBA_Challenge_2017.png)
 ---

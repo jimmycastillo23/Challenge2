@@ -36,7 +36,7 @@ End Sub
 ---
 [This image shows the performance when running the codes for 2017](VBA_Challenge_2017.png)
 ---
-[This image shows the performance when running the codes for 2017](https://github.com/jimmycastillo23/Challenge2/blob/main/VBA_Challenge_2018.png)
+[Performance 2017](https://github.com/jimmycastillo23/Challenge2/blob/main/VBA_Challenge_2018.png)
 
 ### Summary: Two pieces of analysis are shown below:    
 

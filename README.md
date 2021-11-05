@@ -37,7 +37,7 @@ As for the analysis of the performance comparing both 2017 and 2018, it can be o
 ![Performance 2017](https://github.com/jimmycastillo23/Challenge2/blob/main/VBA_Challenge_2018.png)
 ---
 
-## Summary: 
+## Summary 
 
 Two pieces of the analysis are shown below:    
 

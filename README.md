@@ -11,7 +11,7 @@ To experience how editing, or refactoring codes make the VBA script run faster a
 
 To edit, or refactor, the Module 2 solution code to loop through all the data one time in order to collect the same information to determine if investing in the stocks available is really good investment. And to compare and evaluate the performance of running codes for 2017 data and 2018, and observe whether refactoring the code successfully made the VBA script run faster. Finally, explain the findings.
 
-### Results
+## Results
 
 The measure code performance was organized in two parts of the entire code. The first part was placed at the beginning right after the first line subroutine "Sub AllStocksAnalysisChalleng()" and included as follow:
 
@@ -39,7 +39,7 @@ As for the analysis of the performance comparing both 2017 and 2018, it can be o
 
 ## Summary 
 
-Two pieces of the analysis are shown below:    
+### Analysis 
 
 There is a detailed statement on the advantages and disadvantages of refactoring code in general:
 

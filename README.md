@@ -26,6 +26,7 @@ Sub AllStocksAnalysisChalleng()
 The second part was positioned at the end of the subroutine Sub AllStocksAnalysisChalleng() script, right after the Next i loop script. And it is stated as follow: 
 
  endTime = Timer
+ 
     MsgBox "This code ran in " & (endTime - startTime) & " seconds for the year " & (yearValue)
 
 End Sub

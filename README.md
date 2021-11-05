@@ -11,7 +11,7 @@ VBA code editing from the M​​odule2's challenge exercise.
 
 ​To edit, or refactor, the Module 2 solution code to loop through all the data one time in order to collect the same information to determine if investing in the stocks available is really good investment. And to compare and evaluate the performance of running codes for 2017 data and 2018, and observe whether refactoring the code successfully made the VBA script run faster. Finally, explain the findings.
 
-## Results
+#### Results
 
 ​The measure code performance was organized in two parts of the entire code. The first part was placed at the beginning right after the first line subroutine "Sub AllStocksAnalysisChalleng()" and included as follow:
 
@@ -37,15 +37,15 @@ As for the analysis of the performance comparing both 2017 and 2018, it can be o
 ![Performance 2017](https://github.com/jimmycastillo23/Challenge2/blob/main/VBA_Challenge_2018.png)
 ---
 
-### Summary: 
+##### Summary: 
 
 Two pieces of the analysis are shown below:    
 
-### There is a detailed statement on the advantages and disadvantages of refactoring code in general:
+There is a detailed statement on the advantages and disadvantages of refactoring code in general:
 
 The refactoring scripts can possibly be considered as advantage in terms of quality, but it could be a disadvantage to test again all functionality and fix potential errors. However, dealing with functionality and fixing errors is a daily challenge all developer face when writing codes. 
 
-### There is a detailed statement on the advantages and disadvantages of the original and refactored VBA script
+There is a detailed statement on the advantages and disadvantages of the original and refactored VBA script
 
 when comparing performance of both files gree_stock's file from the module2's materials and the assignment VBA challenge, the results ended taking longer than the refactored file.  
 
@@ -189,7 +189,7 @@ Sub Sub AllStocksAnalysisperformance()
 
 End Sub
 
-### Conclusion and analysis of findings: 
+###### Conclusion and analysis of findings: 
 
 ​Refactoring can lead to making scripts more cleaned, organized, readable and easier to understand. Based on the findings in 2017 there are two tickers that can be more feasible worthy stocks to trade to, these are DQ with 199.4% and SEDG 184.5% respectively. And In 2018 occurred the opposite of 2017. In 2018 There are two tickers that show positive numbers and those are ENPH and RUN with 81.9% and 84%. The higher the number is, the more challenging it can be to trade these ticke​rs​ to because on one hand it can be considered that the result of 2017 can mean high risk for people interested in these tickers, however the same can happen with the result of the 2018. It is recommended for those interested in purchasing stocks or trading these ticke​rs​ to explore other resources of analysis such as historic performance, local and global economical and marketing impact over the years, and consider possible predictions when trading these tickers.
 

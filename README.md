@@ -1,19 +1,19 @@
 # VBA with Excel
 
-VBA code editing from the M​​odule2's challenge exercise.
+VBA code editing from the Module2's challenge exercise.
 
 ## Overview of Project
 
-​To experience how editing, or refactoring codes make the VBA script run faster and more efficiently.  
+To experience how editing, or refactoring codes make the VBA script run faster and more efficiently.  
  
 
 ### Purpose
 
-​To edit, or refactor, the Module 2 solution code to loop through all the data one time in order to collect the same information to determine if investing in the stocks available is really good investment. And to compare and evaluate the performance of running codes for 2017 data and 2018, and observe whether refactoring the code successfully made the VBA script run faster. Finally, explain the findings.
+To edit, or refactor, the Module 2 solution code to loop through all the data one time in order to collect the same information to determine if investing in the stocks available is really good investment. And to compare and evaluate the performance of running codes for 2017 data and 2018, and observe whether refactoring the code successfully made the VBA script run faster. Finally, explain the findings.
 
 ## Results
 
-​The measure code performance was organized in two parts of the entire code. The first part was placed at the beginning right after the first line subroutine "Sub AllStocksAnalysisChalleng()" and included as follow:
+The measure code performance was organized in two parts of the entire code. The first part was placed at the beginning right after the first line subroutine "Sub AllStocksAnalysisChalleng()" and included as follow:
 
 Sub AllStocksAnalysisChalleng()
     Dim startTime As Single
@@ -189,8 +189,8 @@ Sub Sub AllStocksAnalysisperformance()
 
 End Sub
 
-## Conclusion and analysis of findings: 
+### Conclusion and analysis of findings: 
 
-​Refactoring can lead to making scripts more cleaned, organized, readable and easier to understand. Based on the findings in 2017 there are two tickers that can be more feasible worthy stocks to trade to, these are DQ with 199.4% and SEDG 184.5% respectively. And In 2018 occurred the opposite of 2017. In 2018 There are two tickers that show positive numbers and those are ENPH and RUN with 81.9% and 84%. The higher the number is, the more challenging it can be to trade these ticke​rs​ to because on one hand it can be considered that the result of 2017 can mean high risk for people interested in these tickers, however the same can happen with the result of the 2018. It is recommended for those interested in purchasing stocks or trading these ticke​rs​ to explore other resources of analysis such as historic performance, local and global economical and marketing impact over the years, and consider possible predictions when trading these tickers.
+Refactoring can lead to making scripts more cleaned, organized, readable and easier to understand. Based on the findings in 2017 there are two tickers that can be more feasible worthy stocks to trade to, these are DQ with 199.4% and SEDG 184.5% respectively. And In 2018 occurred the opposite of 2017. In 2018 There are two tickers that show positive numbers and those are ENPH and RUN with 81.9% and 84%. The higher the number is, the more challenging it can be to trade these ticke​rs​ to because on one hand it can be considered that the result of 2017 can mean high risk for people interested in these tickers, however the same can happen with the result of the 2018. It is recommended for those interested in purchasing stocks or trading these ticke​rs​ to explore other resources of analysis such as historic performance, local and global economical and marketing impact over the years, and consider possible predictions when trading these tickers.
 
       

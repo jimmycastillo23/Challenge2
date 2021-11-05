@@ -1,12 +1,10 @@
 # VBA with Excel
 
-## Overview of Project
-
-​VBA code editing from the M​​odule2's challenge exercise.
+VBA code editing from the M​​odule2's challenge exercise.
 
 ## Overview of Project
 
-​To experience how editing, or refactoring codes make the VBA script run faster.  
+​To experience how editing, or refactoring codes make the VBA script run faster and more efficiently.  
  
 
 ### Purpose
@@ -39,13 +37,15 @@ As for the analysis of the performance comparing both 2017 and 2018, it can be o
 ![Performance 2017](https://github.com/jimmycastillo23/Challenge2/blob/main/VBA_Challenge_2018.png)
 ---
 
-### Summary: Two pieces of analysis are shown below:    
+### Summary: 
 
-## There is a detailed statement on the advantages and disadvantages of refactoring code in general:
+Two pieces of the analysis are shown below:    
+
+### There is a detailed statement on the advantages and disadvantages of refactoring code in general:
 
 The refactoring scripts can possibly be considered as advantage in terms of quality, but it could be a disadvantage to test again all functionality and fix potential errors. However, dealing with functionality and fixing errors is a daily challenge all developer face when writing codes. 
 
-## There is a detailed statement on the advantages and disadvantages of the original and refactored VBA script
+### There is a detailed statement on the advantages and disadvantages of the original and refactored VBA script
 
 when comparing performance of both files gree_stock's file from the module2's materials and the assignment VBA challenge, the results ended taking longer than the refactored file.  
 

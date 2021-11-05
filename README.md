@@ -13,6 +13,8 @@ To edit, or refactor, the Module 2 solution code to loop through all the data on
 
 ## Results
 
+### Analysis
+
 The measure code performance was organized in two parts of the entire code. The first part was placed at the beginning right after the first line subroutine "Sub AllStocksAnalysisChalleng()" and included as follow:
 
 Sub AllStocksAnalysisChalleng()

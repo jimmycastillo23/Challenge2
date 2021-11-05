@@ -39,7 +39,7 @@ As for the analysis of the performance comparing both 2017 and 2018, it can be o
 
 ## Summary 
 
-## Analysis 
+### Analysis 
 
 There is a detailed statement on the advantages and disadvantages of refactoring code in general:
 
